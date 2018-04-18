@@ -6,8 +6,16 @@
     "react-scripts": "1.1.4"
   },
   "dependencies": {
+    "history": "^4.7.2",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.2.0",
+    "react-router-dom": "^4.2.0",
+    "react-router-redux": "next"
   },
   "scripts": {
     "start": "react-scripts start",
